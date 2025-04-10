@@ -6,9 +6,7 @@ Classification is used when the prediction value is categorical (binary classifi
 
 Sigmoid or logit function
 
-Accuracy
+Classification Evaluation Metrics:
 
-Precision
-
-Recall
+Accuracy, Precision, Recall, Classification Report, F1 Score, Confusion Matrix
 

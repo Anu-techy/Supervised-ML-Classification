@@ -1,4 +1,5 @@
 # Supervised-ML-Classification
 
-Regression when the predicted value was continuous like house price prediction
-classifiction when the predicted value was categorical (binary classification, multiclass classification)
+Regression is used when the prediction value is continuous like house price prediction
+
+Classification is used when the prediction value is categorical (binary classification, multiclass classification)
